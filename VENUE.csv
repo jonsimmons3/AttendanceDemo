@@ -1,0 +1,21 @@
+VenueId,VenueNumber,VenueType,VenueName,VenueDesc,VenuePostTown,VenuePostcode,VenueLat,VenueLong,VenueCounty,VenueRegion,VenueWSLat,VenueWSLong
+1,1,PERM,WEC,West end centre,London,W1 4AB,51.5154,0.1354,Greater London,South,51.25412,0.47304
+2,2,PERM,EEC,East End Centre,London,E1 6HG,51.5176,-0.0558,Greater London,South,51.25412,0.47304
+3,3,PERM,NC,North Centre,London,N1 5TH,51.5413,-0.0881,Greater London,South,51.25412,0.47304
+4,4,PERM,SC,South Centre,London,SE1 8HG,51.4992,-0.0879,Greater London,South,51.25412,0.47304
+5,5,PERM,MAN,Manchester,Manchester,M1 3ED,53.4808,-2.2426,Cheshire,North,53.54195,-2.24225
+6,6,PERM,BIR,Birmingham,Birmingham,B1 5TB,52.4862,-1.8904,West Midlands,Midlands,53.54195,-2.24225
+7,7,PERM,LDS,Leeds,Leeds,LS11 6AX,53.8008,-1.5491,West Yorkshire,North,53.54195,-2.24225
+8,8,PERM,COV,Coventry,Coventry,CV1 3YH,52.4068,-1.5197,East Midlands,Midlands,53.54195,-2.24225
+9,9,PERM,BRS,Bristol,Bristol,BS1 1QS,51.4545,-2.5879,Avon,West,50.09872,-5.53308
+10,10,PERM,CDF,Cardiff,Cardiff,CF10 2GV,51.4816,-3.1791,Glamorgan,West,50.09872,-5.53308
+11,11,PERM,NOR,Norwich,Norwich,NR1 2PT,52.6309,1.2974,Norfolk,East,51.25412,0.47304
+12,12,MOBILE,MOB1,Mobile 1,NA,NA,500,500,NA,South,500,500
+13,13,MOBILE,MOB2,Mobile 2,NA,NA,500,500,NA,South,500,500
+14,14,MOBILE,MOB3,Mobile 1,NA,NA,500,500,NA,North,500,500
+15,15,MOBILE,MOB4,Mobile 1,NA,NA,500,500,NA,North,500,500
+16,16,MOBILE,MOB5,Mobile 1,NA,NA,500,500,NA,Midlands,500,500
+17,17,MOBILE,MOB6,Mobile 1,NA,NA,500,500,NA,East,500,500
+18,18,MOBILE,MOB7,Mobile 1,NA,NA,500,500,NA,East,500,500
+19,19,MOBILE,MOB8,Mobile 1,NA,NA,500,500,NA,West,500,500
+20,20,MOBILE,MOB9,Mobile 1,NA,NA,500,500,NA,West,500,500

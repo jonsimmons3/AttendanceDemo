@@ -1,0 +1,21 @@
+AttendeeId,Type,Forename,Surname,PostTown,Postcode,HomeLat,HomeLong,County,Region,HomeWSLat,HomeWSLong
+1,PER,Fred,Bloggs,Enfield,EN1 1 RG,51.6623,-0.1181,Greater London,South,51.25412,0.47304
+2,PER,Joe,Ninety,Croydon,CR1 2BY,51.3762,-0.0982,Greater London,South,51.25412,0.47304
+3,PER,Captain,Scarlet,Brixton,E14 1 DA,51.4613,-0.1156,Greater London,South,51.25412,0.47304
+4,PER,Lady,Penelope,Mayfair,W1 1 RG,51.5116,-0.1478,Greater London,South,51.25412,0.47304
+5,PER,Tin,Tin,Cheadle,M24 5GN,53.3944,-2.2141,Cheshire,North,53.54195,-2.24225
+6,PER,Scott,Tracy,Wolverhampton,WL1 1HY,52.5871,-2.1289,West Midlands,Midlands,53.54195,-2.24225
+7,PER,Alan,Tracy,Halifax,HA1 1SD,53.7271,-1.8575,West Yorkshire,North,53.54195,-2.24225
+8,PER,Barney,Dog,Wokingham,RG40 2JU,51.4105,-0.8339,Berkshire,South,51.25412,0.47304
+9,PER,Harry,Kane,Bristol,BS10 3FG,51.4545,-2.5879,Avon,West,50.09872,-5.53308
+10,PER,Hugo,Lloris,Cardiff,CF3 5TH,51.4816,-3.1791,Glamorgan,West,50.09872,-5.53308
+11,PER,Master,Chef,Thetford,TH1 4TG,52.4129,0.7517,Norfolk,East,51.25412,0.47304
+12,PER,Mrs,Chef,Wokingham,RG40 4UD,51.4105,-0.8339,Berkshire,South,51.25412,0.47304
+13,PER,Virgil,Tracy,Southampton,SO1 3GM,50.9097,-1.4044,Hampshire,South,51.25412,0.47304
+14,PER,Iam,Ordinary,Hull,HU14 2FS,53.7457,-0.3367,East Yorkshire,North,53.54195,-2.24225
+15,PER,Iam,Extraordinary,Middlesborough,ML2 5JK,54.5742,-1.2349,Durham,North,53.54195,-2.24225
+16,PER,Darcy,Bussell,Wolverhampton,WL2 ,52.5871,-2.1289,West Midlands,Midlands,53.54195,-2.24225
+17,PER,Bruno,Tonolli,Ipswich,IP3 5PQ,52.0567,1.1482,Suffolk,East,51.25412,0.47304
+18,PER,Craig,Revelhalwood,Thetford,TH2 7UM,52.4129,0.7517,Norfolk,East,51.25412,0.47304
+19,PER,Some,One,Taunton,TA3 6FF,51.0153,-3.1068,Somerset,West,50.09872,-5.53308
+20,PER,Gareth,Southgate,Penzance,PN4 4 TH,50.1188,-5.5376,Cornwall,West,50.09872,-5.53308
