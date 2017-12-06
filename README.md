@@ -1,7 +1,7 @@
 # AttendanceDemo
 To store all my files related to the patient attendance demo
 
-The word document Demo Synopsis and Design V2.docx in this box folder  has the design and instructions on how to set up and run the demo.
+The word document Demo Synopsis and Design V2.docx in this folder has the design and instructions on how to set up and run the demo.
 
 A data set of joined data is loaded into Watson Analytics to allow further insights to be shown form a citizen analyst point of view.  Both database connections and csv data files can be used as options to access the dataset.
 
